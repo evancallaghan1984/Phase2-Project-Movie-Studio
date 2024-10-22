@@ -1,0 +1,12 @@
+# For Byte-compiled Files
+*.pyc
+__pycache__/
+
+# For Virtual Environment Directories
+venv/
+.env/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+.DS_Store
